@@ -1,3 +1,5 @@
+# Archived: This functionality is now built into browser_mod. You should use that instead as it does way more cool things
+
 # kiosk-mode
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
